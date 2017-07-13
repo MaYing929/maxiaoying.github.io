@@ -1,5 +1,2 @@
 theme: jekyll-theme-time-machine
-deploy:
-  type: git
-  repo: git@github.com:MaYing929/maxiaoying.github.io.git
-  branch: master
+
